@@ -111,7 +111,6 @@
     justify-self: end;
     justify-items: center;
     gap: 2rem;
-    width: 90%;
 }
 
 .user-info img {
@@ -139,6 +138,7 @@
     align-self: end;
     grid-area: welcome;
     padding-left:3rem;
+    font-weight: 700;
 }
 
 .welcome-panel p:nth-of-type(2) {
